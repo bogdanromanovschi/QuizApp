@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Europäische Union. Ein Quiz</string>
+    <string name="intro_text">Ein kurzes Quiz zur</string>
+    <string name="eu">The Europäischen Union</string>
+    <string name="participant">Bitte geben Sie Ihren Namen ein:</string>
+    <string name="participant_hint">Name</string>
+    <string name="eu24">24</string>
+    <string name="eu27">27</string>
+    <string name="eu28">28</string>
+    <string name="eu34">34</string>
+    <string name="q1text">1. Wieviele Mitgliedsstaaten sind zur Zeit (Frühjahr 2017) Teil der  EU?</string>
+    <string name="q2text">2. Welches Land ist das jüngste Mitglied der EU?</string>
+    <string name="q2text_line2">Der Name in Englisch:</string>
+    <string name="q2_hint">Land</string>
+    <string name="q3text">3. Welche dieser Institutionen sind EU Institutionen?</string>
+    <string name="q3toption1">Europäischer Rat</string>
+    <string name="q3toption2">Europäischer Wirtschafts- und Sozialausschuss</string>
+    <string name="q3toption3">Europäischer Datenschutzbeauftragter</string>
+    <string name="q3toption4">Rat der Europäischen Union</string>
+    <string name="q4text">4. Welche Europäische Institution entwirft neue Gesetze?</string>
+    <string name="q4toption1">Europäisches Parliament</string>
+    <string name="q4toption2">Europäischer Rat</string>
+    <string name="q4toption3">Europäische Kommission</string>
+    <string name="q4toption4">Europäischer Ombudsman</string>
+    <string name="q5text">5. Wieviele EU Mitgliedstaaten verwenden den EURO? (Frühjahr 2017)</string>
+    <string name="q5toption1">15</string>
+    <string name="q5toption2">19</string>
+    <string name="q5toption3">27</string>
+    <string name="q5toption4">28</string>
+    <string name="q6text">6. Welche Stilelmente werden auf EURO Scheinen gezeigt?</string>
+    <string name="q6toption1">EU Gründer/Innen</string>
+    <string name="q6toption2">Torbogen</string>
+    <string name="q6toption3">Brücken</string>
+    <string name="q6toption4">Denkmäler für den zweiten Weltkrieg</string>
+    <string name="q7text">7. Welche der folgenden Länder sind nicht EU-Mitglieder, aber Teil des Schengenvertrages?</string>
+    <string name="q7toption1">Island</string>
+    <string name="q7toption2">Schweiz</string>
+    <string name="q7toption3">Norwegen</string>
+    <string name="q7toption4">Liechtenstein</string>
+    <string name="button1">Ergebnis</string>
+    <string name="button2">Antworten</string>
+    <string name="button3">Zurücksetzen</string>
+    <string name="sevenanswers">Exzellent<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nAlle Antworten sind richtig.</string>
+    <string name="fiveanswers">Sehr gut<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nSie haben <xliff:g id="score" example="5">%2$s</xliff:g> Richtige Antworten.\nClick  \"Antworten\" anzeigen.</string>
+    <string name="twoanswers">Sie können sich noch verbessern<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nSie haben <xliff:g id="score" example="5">%2$s</xliff:g> richtige Antworten.\nClick  \"Antworten\" anzeigen.</string>
+    <string name="oneanswer">Nicht ganz so gut.<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nSie haben nur eine richtige Antwort.\nClick  \"Antworten\" anzeigen.</string>
+    <string name="noanswer">Schade.<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nKeine Antwort war richtig.\nClick  \"Antworten\" anzeigen.</string>
+</resources>

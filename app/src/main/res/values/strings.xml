@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">European Union. A Quiz</string>
+    <string name="intro_text">A short quiz on</string>
+    <string name="eu">The European Union</string>
+    <string name="participant">Please enter your name below:</string>
+    <string name="participant_hint">Name</string>
+    <string name="eu24">24</string>
+    <string name="eu27">27</string>
+    <string name="eu28">28</string>
+    <string name="eu34">34</string>
+    <string name="q1text">1. How many members states are currently (spring 2017) part of the EU?</string>
+    <string name="q2text">2. Which country is the newest member of the EU?</string>
+    <string name="q2text_line2">Please enter the country\'s name in English.</string>
+    <string name="q2_hint">Country Name</string>
+    <string name="q3text">3. Which of the following are EU institutions?</string>
+    <string name="q3toption1">European Council</string>
+    <string name="q3toption2">European Economic and Social Committee</string>
+    <string name="q3toption3">European Data Protection Supervisor</string>
+    <string name="q3toption4">Council of the European Union</string>
+    <string name="q4text">4. Which EU institution proposes and enforces new laws?</string>
+    <string name="q4toption1">European Parliament</string>
+    <string name="q4toption2">European Council</string>
+    <string name="q4toption3">European Commission</string>
+    <string name="q4toption4">European Ombudsman</string>
+    <string name="q5text">5. How many EU members use the EURO currency? (Spring 2017)</string>
+    <string name="q5toption1">15</string>
+    <string name="q5toption2">19</string>
+    <string name="q5toption3">27</string>
+    <string name="q5toption4">28</string>
+    <string name="q6text">6. Which design elements are present on all EURO notes?</string>
+    <string name="q6toption1">EU founding fathers</string>
+    <string name="q6toption2">Gateways</string>
+    <string name="q6toption3">Bridges</string>
+    <string name="q6toption4">World War 2 memorials</string>
+    <string name="q7text">7. Which of the following countries are non-EU, but part of Schengen?</string>
+    <string name="q7toption1">Iceland</string>
+    <string name="q7toption2">Switzerland</string>
+    <string name="q7toption3">Norway</string>
+    <string name="q7toption4">Liechtenstein</string>
+    <string name="button1">Submit Results</string>
+    <string name="button2">Show Answers</string>
+    <string name="button3">Reset Form</string>
+    <string name="sevenanswers">Excellent<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nAll answers are correct.</string>
+    <string name="fiveanswers">Very good<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nYou got <xliff:g id="score" example="5">%2$s</xliff:g> correct answers.\nClick  \"Show Answers\" to see the correct responses.</string>
+    <string name="twoanswers">There\'s room for improvement<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nYou got <xliff:g id="score" example="5">%2$s</xliff:g> correct answers.\nClick  \"Show Answers\" to see the correct responses.</string>
+    <string name="oneanswer">This is not so good<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nYou got only one correct answer.\nClick  \"Show Answers\" to see the correct responses.</string>
+    <string name="noanswer">This is a surprise<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nNone of your answers are correct.\nClick  \"Show Answers\" to see the correct responses.</string>
+</resources>

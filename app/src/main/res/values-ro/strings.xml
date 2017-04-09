@@ -1,0 +1,39 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">European Union. A Quiz</string>
+    <string name="button1">Calculeaza scorul</string>
+    <string name="button2">Raspunsurile</string>
+    <string name="button3">Restarteaza</string>
+    <string name="eu">Uniunea Europeana</string>
+    <string name="fiveanswers">Foarte bine<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nAi <xliff:g id="score" example="5">%2$s</xliff:g> raspunsuri corecte. \nApasa  \"Raspunsurile\" sa vezi valorile corecte.</string>
+    <string name="intro_text">Un scurt chestionar cu privire la</string>
+    <string name="noanswer">Surprinzator<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nNiciun raspuns nu e corect. \nApasa  \"Raspunsurile\" sa vezi valorile corecte.</string>
+    <string name="oneanswer">Nu e prea grozav<xliff:g id="name" example="Theresa">%1$s</xliff:g>\ni un singur raspuns corect. \nApasa  \"Raspunsurile\" sa vezi valorile corecte.</string>
+    <string name="participant">Scrie-ti numele in campul de mai jos</string>
+    <string name="participant_hint">Nume</string>
+    <string name="q1text">1. Cate tari fac parte din UE in acest moment (primavara 2017)?</string>
+    <string name="q2_hint">Tara</string>
+    <string name="q2text">2. Care este cel mai recent membru al UE?</string>
+    <string name="q2text_line2">Te rog sa introduci numele tarii fara diacritice</string>
+    <string name="q3text">3. Din lista de mai jos, care institutii tin de UE?</string>
+    <string name="q3toption1">Consiliul European</string>
+    <string name="q3toption2">Comitetul Economic si Social European</string>
+    <string name="q3toption3">Autoritatea Europeana pentru Protectia Datelor</string>
+    <string name="q3toption4">Consiliul Uniunii Europene</string>
+    <string name="q4text">4. Care institutie european propune si urmareste aplicarea noilor legi?</string>
+    <string name="q4toption1">Parlamentul European</string>
+    <string name="q4toption2">Consiliul European</string>
+    <string name="q4toption3">Comisia Europeana</string>
+    <string name="q4toption4">Avocatul poporului</string>
+    <string name="q5text">5. Cati membri UE folosesc moneda Euro? (La momentul acesta, primavara 2017)</string>
+    <string name="q6text">6. Ce elemente de design sunt prezente pe toate bancnotele Euro?</string>
+    <string name="q6toption1">Efigii ale fondatorilor UE</string>
+    <string name="q6toption2">Porti</string>
+    <string name="q6toption3">Poduri</string>
+    <string name="q6toption4">Monumente comemorative ale razboiului mondial</string>
+    <string name="q7text">7. Care din urmatoarele tari din afara UE sunt parte din Schengen?</string>
+    <string name="q7toption2">Elvetia</string>
+    <string name="q7toption1">Islanda</string>
+    <string name="q7toption3">Norvegia</string>
+    <string name="sevenanswers">Excelent<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nToate raspunsurile sunt corecte.</string>
+    <string name="twoanswers">Se poate si mai bune<xliff:g id="name" example="Theresa">%1$s</xliff:g>\nAi <xliff:g id="score" example="5">%2$s</xliff:g> raspunsuri corecte.\nApasa  \"Raspunsurile\" sa vezi valorile corecte.</string>
+</resources>
